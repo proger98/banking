@@ -11,6 +11,7 @@ import Person from '../../assets/imgs/person';
 import styles from './style';
 
 const TermsOfUseScreen = () => {
+    
     const actionSheetRef = React.createRef();
     const [disabled, setDisabled] = React.useState(true);
     const [signature, setSignature] = React.useState(null);
