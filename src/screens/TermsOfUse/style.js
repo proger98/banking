@@ -77,5 +77,14 @@ export default StyleSheet.create({
         alignItems: 'center',
         flexDirection: 'row',
         justifyContent: 'space-between'
+    },
+    signatureInputContainer: {
+        height: 90,
+        borderRadius: 20,
+        overflow: 'hidden'
+    },
+    signatureInput: {
+        height: 90,
+        backgroundColor: colors.input
     }
 });
