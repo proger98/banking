@@ -1,6 +1,6 @@
 # banking
 
-commands
-npm i
-npx pod-install
-npm run ios/android  ios runned only in mac
+commands\n
+npm i\n
+npx pod-install\n
+npm run ios/android  ios runned only in mac\n
